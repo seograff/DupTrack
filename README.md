@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DupTrack - Detección de Archivos Duplicados
 
 **DupTrack** es una herramienta profesional para buscar, identificar y eliminar archivos duplicados en tu sistema de manera rápida y eficiente. Diseñada por **SEO_GRAFF**, ofrece una interfaz moderna y funcionalidades avanzadas.
@@ -61,3 +62,7 @@ git clone https://github.com/seograff/DupTrack.git
 ## Autor
 
 **SEO_GRAFF**
+=======
+# DupTrack
+DupTrack: Herramienta profesional para detectar y eliminar archivos duplicados en Windows con actualización automática.
+>>>>>>> 8e807ccc45c4c05b0c6bdcd9b58a5c3609825d84
